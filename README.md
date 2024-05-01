@@ -1,12 +1,14 @@
-<h1 align="left">Sobre mim</h1>
+<h1 align="left">Sobre mim / <i>About me</i></h1>
 
 ###
 
-<p align="left">Um desenvolvedor front-end altamente motivado e apaixonado pela criação de interfaces de <br>usuário excepcionais e intuitivas. Com 2 anos de estudo e experiência, desenvolvi habilidades sólidas <br>na construção de aplicativos web responsivos e interativos. Sou apaixonado por aprender novas <br>tecnologias e aplicá-las de forma eficaz para resolver problemas complexos.</p>
+<p align="left">Um desenvolvedor front-end altamente motivado e apaixonado pela criação de interfaces de <br>usuário excepcionais e intuitivas. Com 2 anos de estudo e experiência, desenvolvi habilidades sólidas na construção de aplicativos web responsivos e interativos. Sou apaixonado por aprender novas tecnologias e aplicá-las de forma eficaz para resolver problemas complexos.</p>
+<br>
+<p align="left"><i>A highly motivated front-end developer passionate about creating exceptional and intuitive user interfaces. With 2 years of study and experience, I have developed solid skills in building responsive and interactive web applications. I am passionate about learning new technologies and applying them effectively to solve complex problems.</i></p>
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<h1 align="left">Tecnologias / <i>Techs</i></h1>
 
 ###
 
@@ -36,11 +38,13 @@
 
 ###
 
-<p align="left">Desenvolvo interfaces de usuário responsivas e interativas utilizando as tecnologias supracitadas, <br>colaboro de perto com os clientes para compreender seus requisitos e traduzi-los em soluções <br>eficazes. Minha abordagem centrada no cliente garante que os projetos sejam entregues <br>pontualmente e em conformidade com as especificações, garantindo a satisfação do cliente.</p>
+<p align="left">Desenvolvo interfaces de usuário responsivas e interativas utilizando as tecnologias supracitadas, colaboro de perto com os clientes para compreender seus requisitos e traduzi-los em soluções eficazes. Minha abordagem centrada no cliente garante que os projetos sejam entregues pontualmente e em conformidade com as especificações, garantindo a satisfação do cliente.</p>
+<br>
+<p align="left"><i>I develop responsive and interactive user interfaces using the aforementioned technologies, collaborating closely with clients to understand their requirements and translate them into effective solutions. My customer-centric approach ensures that projects are delivered on time and in accordance with specifications, guaranteeing client satisfaction.</i></p>
 
 ###
 
-<h1 align="left">Atividade</h1>
+<h1 align="left">Atividade / <i>Activity</i></h1>
 
 ###
 
@@ -55,11 +59,13 @@
 
 ###
 
-<p align="left">Tenho grande interesse em novas tecnologias e constantemente me atualizo através de vídeos, <br>leitura de documentações, livros e artigos relacionados. Durante minha trajetória acadêmica, assumi <br>papéis de liderança, coordenando grupos de estudo e liderando projetos, o que aprimorou minhas <br>habilidades de comunicação e organização.</p>
+<p align="left">Tenho grande interesse em novas tecnologias e constantemente me atualizo através de vídeos, leitura de documentações, livros e artigos relacionados. Durante minha trajetória acadêmica, assumi papéis de liderança, coordenando grupos de estudo e liderando projetos, o que aprimorou minhas habilidades de comunicação e organização.</p>
+<br>
+<p align="left"><i>I have a keen interest in new technologies and constantly update myself through videos, reading documentation, books, and related articles. Throughout my academic journey, I have taken on leadership roles, coordinating study groups and leading projects, which has enhanced my communication and organizational skills.</i></p>
 
 ###
 
-<h1 align="left">Redes Sociais</h1>
+<h1 align="left">Redes Sociais / <i>Socials</i></h1>
 
 ###
 
