@@ -1,4 +1,4 @@
-<h1 align="left">Sobre mim / <i>About me</i></h1>
+<h1 align="left">ℹ️ Sobre mim / <i>About me</i></h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">Tecnologias / <i>Techs</i></h1>
+<h1 align="left">⚙️ Tecnologias / <i>Techs</i></h1>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h1 align="left">Atividade / <i>Activity</i></h1>
+<h1 align="left">👨🏾‍💻 Atividade / <i>Activity</i></h1>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h1 align="left">Redes Sociais / <i>Socials</i></h1>
+<h1 align="left">💬 Redes Sociais / <i>Socials</i></h1>
 
 ###
 
