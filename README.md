@@ -29,7 +29,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   </a>
+  <a href="#">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  </a>
 </div>
 
 ###
