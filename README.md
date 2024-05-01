@@ -85,3 +85,10 @@
 </div>
 
 ###
+
+<p align="left">Entre em contato ou me acompanhe de perto através das redes sociais.</p>
+<br>
+<p align="left"><i>Feel free to reach out or stay closely connected with me through social media.</i></p>
+
+
+###
