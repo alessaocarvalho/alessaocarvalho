@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Um desenvolvedor front-end altamente motivado e apaixonado pela criação de interfaces de <br>usuário excepcionais e intuitivas. Com 2 anos de estudo e experiência, desenvolvi habilidades sólidas na construção de aplicativos web responsivos e interativos. Sou apaixonado por aprender novas tecnologias e aplicá-las de forma eficaz para resolver problemas complexos.</p>
+<p align="left">Um desenvolvedor web altamente motivado e apaixonado pela criação de interfaces de <br>usuário excepcionais e intuitivas. Com 2 anos de estudo e experiência, desenvolvi habilidades sólidas na construção de aplicativos web responsivos e interativos. Sou apaixonado por aprender novas tecnologias e aplicá-las de forma eficaz para resolver problemas complexos.</p>
 
 ###
 
