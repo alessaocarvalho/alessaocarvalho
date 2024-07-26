@@ -1,11 +1,3 @@
-<h1 align="left">ℹ️ Sobre mim
-
-###
-
-<p align="left">Um desenvolvedor web altamente motivado e apaixonado pela criação de interfaces de <br>usuário excepcionais e intuitivas. Com 2 anos de estudo e experiência, desenvolvi habilidades sólidas na construção de aplicativos web responsivos e interativos. Sou apaixonado por aprender novas tecnologias e aplicá-las de forma eficaz para resolver problemas complexos.</p>
-
-###
-
 <h1 align="left">⚙️ Tecnologias
 
 ###
@@ -34,12 +26,6 @@
   </a>
 </div>
 
-###
-
-<p align="left">Desenvolvo interfaces de usuário responsivas e interativas utilizando as tecnologias supracitadas, colaboro de perto com os clientes para compreender seus requisitos e traduzi-los em soluções eficazes. Minha abordagem centrada no cliente garante que os projetos sejam entregues pontualmente e em conformidade com as especificações, garantindo a satisfação do cliente.</p>
-
-###
-
 <h1 align="left">👨🏾‍💻 Atividade
 
 ###
@@ -52,12 +38,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessaocarvalho&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   </a>
 </div>
-
-###
-
-<p align="left">Tenho grande interesse em novas tecnologias e constantemente me atualizo através de vídeos, leitura de documentações, livros e artigos relacionados. Durante minha trajetória acadêmica, assumi papéis de liderança, coordenando grupos de estudo e liderando projetos, o que aprimorou minhas habilidades de comunicação e organização.</p>
-
-###
 
 <h1 align="left">💬 Redes Sociais
 
@@ -77,10 +57,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Entre em contato ou me acompanhe de perto através das redes sociais.</p>
-
 
 ###
