@@ -13,7 +13,7 @@
 ---
 
 ### ⚡ Sobre
-Atualmente na **Prodemge**, focado em tríade **Vue 3, TypeScript e Laravel**.
+Atualmente na **Prodemge**, focado em **Vue 3, TypeScript e Laravel**.
 
 - 🎓 Graduando em Sistemas de Informação.
 - 🏗️ Aplicando conceitos de POO no ecossistema Laravel.
